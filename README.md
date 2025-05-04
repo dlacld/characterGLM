@@ -28,8 +28,6 @@ characterGLM  是一个使用 AI LLM 实现2个不同角色的 AI 机器人进�
 
 ### 使用示例
 
-您可以通过指定配置文件或提供命令行参数来使用 OpenAI-Translator 工具。
-
 命令行直接运行：
 
 ```bash
